@@ -9,9 +9,10 @@ This program shows the best road on a map<br>
 1- matplotlib<br>
 2- tkinter<br>
 
-<b>How to use: </b><br>
+<b>How to use: </b><be>
+<b>Costs.xlsx file must exist and has from -- to -- cost for every city on the area </b>
 1- After running the application the welcome interface will show up<br>
-2- In the case of specified cities choose the red box, Then enter the start point and wanted cities, Then the map will show  with best road<br>
+2- In the case of specified cities choose the red box, Then enter the start point and wanted cities, Then the map will show the best road<br>
 3- In case of the random path with minimum cost choose the green box, Then enter the customers' budget, Then the result will be like: <br>
    1. Number of cities to choose the number of cities the customer wants to visit<br>
    2. Cost of each road<br>
